@@ -9,7 +9,7 @@
 I'm a CSE student interested in building practical software and exploring how artificial intelligence can be integrated into real-world applications.
 
 * 🌱 Currently learning **AI/ML, software development, and DSA**
-* 💻 Working with **C++, Java, Python, PHP, MySQL, HTML & CSS**
+* 💻 Working with **C++, JavaScript, Python, PHP, MySQL, HTML & CSS**
 * 🔨 Building academic and personal projects
 * 🚀 Interested in developing **software integrated with AI**
 
@@ -18,7 +18,7 @@ I'm a CSE student interested in building practical software and exploring how ar
 **Languages**
 
 * C++
-* Java
+* JavaScript
 * Python
 * PHP
 * SQL
@@ -41,7 +41,6 @@ I'm a CSE student interested in building practical software and exploring how ar
 
 ## 📚 Currently Learning
 
-* Data Structures & Algorithms
 * Machine Learning
 * Artificial Intelligence
 * Backend Development
@@ -49,8 +48,8 @@ I'm a CSE student interested in building practical software and exploring how ar
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
+* 💼 LinkedIn: 
+* 📧 Email: badhan.roy444@gmail.com
 
 ---
 
