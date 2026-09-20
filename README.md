@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Badhan Roy 👋
 
-<!--
-**badhanroy-dev/badhanroy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science & Engineering Student**
+💻 Interested in **Software Engineering & Artificial Intelligence**
+🤖 Exploring **AI/ML and AI-powered software development**
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a CSE student interested in building practical software and exploring how artificial intelligence can be integrated into real-world applications.
+
+* 🌱 Currently learning **AI/ML, software development, and DSA**
+* 💻 Working with **C++, Java, Python, PHP, MySQL, HTML & CSS**
+* 🔨 Building academic and personal projects
+* 🚀 Interested in developing **software integrated with AI**
+
+## 🛠️ Technologies
+
+**Languages**
+
+* C++
+* Java
+* Python
+* PHP
+* SQL
+
+**Web & Database**
+
+* HTML
+* CSS
+* MySQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+## 📌 Featured Projects
+
+🚧 More projects coming soon...
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Machine Learning
+* Artificial Intelligence
+* Backend Development
+* Software Engineering
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Your LinkedIn]
+* 📧 Email: [Your Email]
+
+---
+
+Thanks for visiting my profile! ⭐
