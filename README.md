@@ -49,8 +49,9 @@ Surplus Food Rescue & Donation Network — a web-based platform connecting food 
 
 ## 🎓 Education
 
-B.Sc. in Computer Science & Engineering
-United International University
+**B.Sc. in Computer Science & Engineering**  
+United International University (UIU)  
+Expected Graduation: 2028
 
 
 ## 📫 Connect With Me
