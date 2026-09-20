@@ -37,7 +37,8 @@ I'm a CSE student interested in building practical software and exploring how ar
 
 ## 📌 Featured Projects
 
-🚧 More projects coming soon...
+### 🍱 [FoodRescue](https://github.com/badhanroy-dev/SurplusFoodRescue)
+Surplus Food Rescue & Donation Network — a web-based platform connecting food donors, charities, and riders to reduce food waste and support communities.
 
 ## 📚 Currently Learning
 
