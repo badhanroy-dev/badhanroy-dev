@@ -45,6 +45,11 @@ I'm a CSE student interested in building practical software and exploring how ar
 * Artificial Intelligence
 * Backend Development
 * Software Engineering
+🎓 Education
+
+B.Sc. in Computer Science & Engineering
+United International University
+
 
 ## 📫 Connect With Me
 
