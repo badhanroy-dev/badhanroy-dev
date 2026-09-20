@@ -54,8 +54,8 @@ United International University
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: 
-* 📧 Email: badhan.roy444@gmail.com
+* 💼 LinkedIn: 🔗 [LinkedIn](https://www.linkedin.com/in/badhan-roy-5a8919315/)
+* 📧 Email:  [Email Me](mailto:badhan.roy444@gmail.com)
 
 ---
 
