@@ -40,7 +40,7 @@ I'm a CSE student interested in building practical software and exploring how ar
 ### 🍱 [FoodRescue](https://github.com/badhanroy-dev/SurplusFoodRescue)
 Surplus Food Rescue & Donation Network — a web-based platform connecting food donors, charities, and riders to reduce food waste and support communities.
 
-### 🍱 [HumanityLink](https://github.com/badhanroy-dev/humanitylink).
+### 🍱 [HumanityLink](https://github.com/badhanroy-dev/humanitylink)
 HumanityLink — A web-based charity and community support platform connecting donors, charities, restaurants, and people in need through food donations, medical assistance, welfare support, and financial aid.
 
 
