@@ -43,6 +43,9 @@ Surplus Food Rescue & Donation Network — a web-based platform connecting food 
 ### 🍱 [HumanityLink](https://github.com/badhanroy-dev/humanitylink)
 HumanityLink — A web-based charity and community support platform connecting donors, charities, restaurants, and people in need through food donations, medical assistance, welfare support, and financial aid.
 
+### 🍱 [NumpyStudentAnalytics](https://github.com/badhanroy-dev/numpy-student-analytics)
+Student Analytics System — A Python and NumPy-based project for analyzing student performance through statistical analysis, ranking, search, scholarship eligibility, bonus marks, and exam comparisons.
+
 
 ## 📚 Currently Learning
 
