@@ -63,7 +63,7 @@ Expected Graduation: 2028
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: 🔗 [LinkedIn](https://www.linkedin.com/in/badhan-roy-5a8919315/)
+* 💼 LinkedIn: 🔗 [LinkedIn](https://www.linkedin.com/in/badhanroy-dev/)
 * 📧 Email:  [Email Me](mailto:badhan.roy444@gmail.com)
 
 ---
