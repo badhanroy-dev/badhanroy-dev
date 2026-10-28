@@ -17,6 +17,7 @@ I'm a CSE student interested in building practical software and exploring how ar
 
 **Languages**
 
+* C
 * C++
 * JavaScript
 * Python
